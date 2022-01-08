@@ -10,6 +10,7 @@ Created on Sun Dec 26 22:39:31 2021
 import PySimpleGUI as sg
 import pandas as pd
 from datetime import date
+from Receive_email_module import receive_gmail_by_subject_lifenode1994
 
 save_folder = r'C:\Users\StannyGoffin\OneDrive - Smartz\Desktop\Minimalog/'
 
